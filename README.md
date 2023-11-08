@@ -1,8 +1,8 @@
-# .Vim 
+# .Vim
 
 ![](https://i.imgur.com/tusckyr.png)
 
-.vim is committed to creating a comfortable vim development environment for Python and React developers currently. 
+.vim is committed to creating a comfortable vim development environment for Python and React developers currently.
 If you are the developer mentioned above, welcome to submit a pull request to contribute, let us embrace vim together.
 
 ## Outline
@@ -17,13 +17,13 @@ If you are the developer mentioned above, welcome to submit a pull request to co
 
 ```
   # zsh
-  $ git clone https://github.com/revtel/.vim.git  
+  $ git clone https://github.com/revtel/.vim.git
   $ echo "so $HOME/.vim/.vimrc" > $HOME/.vimrc
   $ vim
 ```
 
 ```
-  # vim editor 
+  # vim editor
   :PlugInstall
 ```
 
@@ -114,38 +114,3 @@ If you are the developer mentioned above, welcome to submit a pull request to co
     ├── nerdcommenter.vim
     └── nerdtree.vim
 ```
-
-## Contributors
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/whitedogg13">
-          <img src="https://www.revtel.tech/static/27c58c6bb6f59c00bb890c4d2f9a823f/b7b73/Richie.png" width="100px" />
-        </a>
-        <br/>
-        <div>Richie Hsieh</div>
-      </td>
-      <td align="center">
-        <a href="https://github.com/ChienHsiao">
-          <img src="https://www.revtel.tech/static/8e76175095cbd317769b5335cf2de64c/b7b73/Chien.png" width="100px" />
-        </a>
-        <br/>
-        <div>Chien Hsiao</div>
-      </td>
-      <td align="center">
-        <a href="https://github.com/guychienll">
-          <img src="https://www.revtel.tech/static/c0be7e3b863d6941f4946b68cd181ded/b7b73/Guy.png" width="100px" />
-        </a>
-        <br/>
-        <div>Guy Chien</div>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-## Contact Us
-
-[Revtel Tech](mailto:contact@revtel.tech)

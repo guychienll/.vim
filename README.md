@@ -50,6 +50,7 @@ If you are the developer mentioned above, welcome to submit a pull request to co
   --- | ---
   `gd`| go to definition
   `gr`| go find references
+  `gc`| comment selection
   `sn`| go to next error or warning
   `sp`| go to previous error or warning
   `g.`| go to next cursor position

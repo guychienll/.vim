@@ -32,18 +32,19 @@ Plug 'sheerun/vim-polyglot'
 "syntax hightlight
 
 "frontend plugins start
-Plug 'dense-analysis/ale'
 Plug 'prettier/vim-prettier'
 Plug 'jiangmiao/auto-pairs'
 Plug 'mattn/emmet-vim'
 Plug 'leafgarland/typescript-vim'
 Plug 'peitalin/vim-jsx-typescript'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'alvan/vim-closetag'
 "frontend plugins end
 
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
-
 call plug#end()
+
 
 
 set nocompatible

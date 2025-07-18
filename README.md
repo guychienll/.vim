@@ -38,8 +38,6 @@ If you are the developer mentioned above, welcome to submit a pull request to co
   --- | ---
   `RR` | trigger code action
   `RN` | trigger rename
-  `--` | comment the current line the cursor on
-  `FF` | format code (include javascript(eslint,prettier) , python(autopep8))
 
   </details>
 
@@ -53,12 +51,10 @@ If you are the developer mentioned above, welcome to submit a pull request to co
   `gc`| comment selection
   `sn`| go to next error or warning
   `sp`| go to previous error or warning
-  `g.`| go to next cursor position
-  `g,`| go to previous cursor position
   `F4`| toggle RltvNmbr
-  `ctrl + l`| go next buffer
-  `ctrl + k`| go previous buffer
-  `ctrl + p`| toggle ctrlP ( like vscode go anywhere )
+  `leader + l`| go next buffer
+  `leader + k`| go previous buffer
+  `leader + p`| toggle ctrlP ( like vscode go anywhere )
 
   </details>
 
@@ -67,7 +63,6 @@ If you are the developer mentioned above, welcome to submit a pull request to co
 
   Key | Action
   --- | ---
-  `ctrl + o`| toggle nerdtree (like vscode explore)
   `space`| enter easymotion mode
 
   </details>
@@ -79,7 +74,6 @@ If you are the developer mentioned above, welcome to submit a pull request to co
 
   Key | Action
   --- | ---
-  `--`| comment multiple lines what you selected
 
   </details>
 
@@ -90,7 +84,6 @@ If you are the developer mentioned above, welcome to submit a pull request to co
 
   Key | Action
   --- | ---
-  `ctrl + e`| trigger emmet expand
 
   </details>
 

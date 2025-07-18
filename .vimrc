@@ -79,7 +79,6 @@ filetype plugin on
 
 let mapleader = ","
 
-
 set noerrorbells visualbell t_vb=
 if has('autocmd')
   autocmd GUIEnter * set visualbell t_vb=
@@ -87,8 +86,6 @@ endif
 
 "close the help.txt
 noremap <F1> <Nop>
-nnoremap <silent> g, <C-o>
-nnoremap <silent> g. <C-i>
 
 augroup vimrc-sync-fromstart
   autocmd!

@@ -1,4 +1,4 @@
-noremap <C-p> :Files<CR>
-noremap <C-g> :GFiles?<CR>
-noremap <C-t> :BTags<CR>
-noremap <C-f> :Ag 
+noremap <leader>p :Files<CR>
+noremap <leader>g :GFiles?<CR>
+noremap <leader>t :BTags<CR>
+noremap <leader>f :Ag 

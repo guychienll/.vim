@@ -2,6 +2,6 @@
   "coc.preferences.jumpCommand": "tabe",
   "emmet.includeLanguages":{
     "javascript":"javascriptreact",
-    "typescript":"typescriptreact",
+    "typescript":"typescriptreact"
   }
 }
